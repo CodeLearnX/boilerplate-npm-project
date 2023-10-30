@@ -1,6 +1,7 @@
 {
-	"author": "codelearnx",
 	"name": "fcc-learn-npm-package-json",
+	"author": "codelearnx",
+	"description": "A Node.js project to build APIs",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
